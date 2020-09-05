@@ -127,3 +127,7 @@ header svg {
 #mybook {
   margin: 0 !important;
 }
+.credits {
+  margin-top: 40px;
+  text-align: center;
+}

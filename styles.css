@@ -119,8 +119,11 @@ header svg {
 .mybook {
   border: 10px #222 solid;
   border-radius: 5px;
-  height: 67%;
   width: 800px;
   margin: 0 auto;
   margin-top: 40px;
+}
+
+#mybook {
+  margin: 0 !important;
 }
